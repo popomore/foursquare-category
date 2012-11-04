@@ -6,15 +6,15 @@
 
 ## 一级分类
 
- -  [Arts & Entertainment](#arts-&-entertainment)
- -  [College & University](#college-&-university)
+ -  [Arts & Entertainment](#arts--entertainment)
+ -  [College & University](#college--university)
  -  [Food](#food)
  -  [Nightlife Spot](#nightlife-spot)
- -  [Outdoors & Recreation](#outdoors-&-recreation)
- -  [Professional & Other Places](#professional-&-other-places)
+ -  [Outdoors & Recreation](#outdoors--recreation)
+ -  [Professional & Other Places](#professional--other-places)
  -  [Residence](#residence)
- -  [Shop & Service](#shop-&-service)
- -  [Travel & Transport](#travel-&-transport)
+ -  [Shop & Service](#shop--service)
+ -  [Travel & Transport](#travel--transport)
 
 ## 二级分类
 
