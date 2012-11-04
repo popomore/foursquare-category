@@ -18,7 +18,7 @@
 
 ## 二级分类
 
-> 注：`❯` 标识三级分类
+> 注：`➠` 标识三级分类
 
 ### Arts & Entertainment
 
@@ -35,10 +35,10 @@ General Entertainment |
 Historic Site |
 Movie Theater |
 Museum |
-❯ Art Museum |
-❯ History Museum |
-❯ Planetarium |
-❯ Science Museum |
+➠ Art Museum |
+➠ History Museum |
+➠ Planetarium |
+➠ Science Museum |
 Music Venue |
 Performing Arts Venue |
 Pool Hall |
