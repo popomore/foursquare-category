@@ -20,34 +20,51 @@
 
 > 注：`➠` 标识三级分类
 
-### Arts & Entertainment
+### Arts & Entertainment (艺术 & 娱乐)
 
 英文 | 翻译
 --- | ---
-Aquarium |
-Arcade | 
-Art Gallery |
-Bowling Alley |
-Casino |
+Aquarium | 水族馆
+Arcade | 游戏厅，玩街机的
+Art Gallery |  美术馆
+Bowling Alley | 保龄球馆
+Casino | 赌场
 Comedy Club |
-Concert Hall |
+Concert Hall | 大型音乐厅
 General Entertainment |
 Historic Site |
-Movie Theater |
-Museum |
-➠ Art Museum |
-➠ History Museum |
-➠ Planetarium |
-➠ Science Museum |
-Music Venue |
+Movie Theater | 电影院
+➠ Indie Movie Theater |
+➠ Multiplex |
+Museum | 博物馆
+➠ Art Museum | 艺术博物馆
+➠ History Museum | 历史博物馆
+➠ Planetarium | 天文馆
+➠ Science Museum | 科技馆
+Music Venue | 音乐场所（比如西湖音乐节）如果听交响乐之类的可以选上面的音乐厅。
+➠ Jazz Club |
+➠ Piano Bar |
+➠ Rock Club |
 Performing Arts Venue |
-Pool Hall |
+➠ Dance Studio |
+➠ Indie Theater |
+➠ Opera House |
+➠ Theater |
+Pool Hall | 台球厅
 Public Art |
-Racetrack |
-Stadium |
-Theme Park |
-Water Park |
-Zoo |
+Racetrack | 赛车、赛马场
+Stadium | 体育场
+➠ Baseball Stadium
+➠ Basketball Stadium
+➠ Cricket Ground
+➠ Football Stadium
+➠ Hockey Arena
+➠ Soccer Stadium
+➠ Tennis
+➠ Track Stadium
+Theme Park | 主题公园
+Water Park | 水上乐园
+Zoo | 动物园
 
 ### College & University
 
