@@ -42,9 +42,9 @@ Museum | 博物馆
 ➠ Planetarium | 天文馆
 ➠ Science Museum | 科技馆
 Music Venue | 音乐场所（比如西湖音乐节）如果听交响乐之类的可以选上面的音乐厅。
-➠ Jazz Club |
-➠ Piano Bar |
-➠ Rock Club |
+➠ Jazz Club | 爵士
+➠ Piano Bar | 钢琴
+➠ Rock Club | 摇滚
 Performing Arts Venue |
 ➠ Dance Studio |
 ➠ Indie Theater |
@@ -53,15 +53,15 @@ Performing Arts Venue |
 Pool Hall | 台球厅
 Public Art |
 Racetrack | 赛车、赛马场
-Stadium | 体育场
-➠ Baseball Stadium
-➠ Basketball Stadium
-➠ Cricket Ground
-➠ Football Stadium
-➠ Hockey Arena
-➠ Soccer Stadium
-➠ Tennis
-➠ Track Stadium
+Stadium | 体育场，体育馆
+➠ Baseball Stadium | 棒球场
+➠ Basketball Stadium | 篮球场
+➠ Cricket Ground |
+➠ Football Stadium | 橄榄球场
+➠ Hockey Arena | 曲棍球场
+➠ Soccer Stadium | 足球场
+➠ Tennis | 网球场
+➠ Track Stadium | 田径场
 Theme Park | 主题公园
 Water Park | 水上乐园
 Zoo | 动物园
