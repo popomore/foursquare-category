@@ -51,12 +51,12 @@ Performing Arts Venue |
 ➠ Opera House |
 ➠ Theater |
 Pool Hall | 台球厅
-Public Art |
+Public Art | 公共艺术 [?](http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%B1%E8%97%9D%E8%A1%93)
 Racetrack | 赛车、赛马场
 Stadium | 体育场，体育馆
 ➠ Baseball Stadium | 棒球场
 ➠ Basketball Stadium | 篮球场
-➠ Cricket Ground |
+➠ Cricket Ground | 板球场
 ➠ Football Stadium | 橄榄球场
 ➠ Hockey Arena | 曲棍球场
 ➠ Soccer Stadium | 足球场
