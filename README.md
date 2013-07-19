@@ -124,48 +124,48 @@ Deli / Bodega | 熟食店或賣酒店
 Dessert Shop | 甜品店
 Dim Sum Restaurant | 点心（一般指粤式的）
 Diner | 餐车 [?](http://en.wikipedia.org/wiki/Diner)
-Distillery | 酒厂
-Donut Shop |
-Dumpling Restaurant |
-Eastern European Restaurant |
-Ethiopian Restaurant |
-Falafel Restaurant |
-Fast Food Restaurant |
-Filipino Restaurant |
-Fish &amp; Chips Shop |
-Food Truck |
-French Restaurant |
-Fried Chicken Joint |
-Gastropub |
-German Restaurant |
-Gluten-free Restaurant |
-Greek Restaurant |
-Hot Dog Joint |
-Ice Cream Shop |
-Indian Restaurant |
-Indonesian Restaurant |
-Italian Restaurant |
-Japanese Restaurant |
-Juice Bar |
-Korean Restaurant |
-Latin American Restaurant |
-Mac &amp; Cheese Joint |
-Malaysian Restaurant |
-Mediterranean Restaurant |
-Mexican Restaurant |
-Middle Eastern Restaurant |
-Molecular Gastronomy Restaurant |
-Mongolian Restaurant |
-Moroccan Restaurant |
+Distillery | 酿酒厂
+Donut Shop | 甜甜圈
+Dumpling Restaurant | 饺子店
+Eastern European Restaurant | 东欧餐馆
+Ethiopian Restaurant | 埃塞俄比亚餐馆
+Falafel Restaurant | 炸豆丸子（中东地区）[?](http://en.wikipedia.org/wiki/Falafel)
+Fast Food Restaurant | 快餐店
+Filipino Restaurant | 菲律宾餐馆
+Fish & Chips Shop | 炸鱼薯条 [?](https://en.wikipedia.org/wiki/Fish_and_chips)
+Food Truck | 快餐车
+French Restaurant | 法式餐馆
+Fried Chicken Joint | 炸鸡
+Gastropub | 美食酒馆，相对其他 pub，会提供精致的菜
+German Restaurant | 德国餐馆
+Gluten-free Restaurant | 无麸质饮食餐馆
+Greek Restaurant | 希腊餐馆
+Hot Dog Joint | 热狗
+Ice Cream Shop | 冰淇淋
+Indian Restaurant | 印度餐馆
+Indonesian Restaurant | 印度尼西亚餐馆
+Italian Restaurant | 意大利餐馆
+Japanese Restaurant | 日本餐馆
+Juice Bar | 果汁店（主要为水果饮料）
+Korean Restaurant | 韩国餐馆
+Latin American Restaurant | 拉丁每周餐馆
+Mac & Cheese Joint | 奶酪通心粉
+Malaysian Restaurant | 马来西亚餐馆
+Mediterranean Restaurant | 地中海餐馆
+Mexican Restaurant | 墨西哥餐馆
+Middle Eastern Restaurant | 中东餐馆
+Molecular Gastronomy Restaurant | 分子食物 [?](http://en.wikipedia.org/wiki/Molecular_gastronomy)
+Mongolian Restaurant | 蒙古餐馆
+Moroccan Restaurant | 摩洛哥餐馆
 New American Restaurant |
-Peruvian Restaurant |
-Pizza Place |
-Portuguese Restaurant |
-Ramen /  Noodle House |
-Restaurant |
-Salad Place |
-Sandwich Place |
-Scandinavian Restaurant |
+Peruvian Restaurant | 秘鲁餐馆
+Pizza Place | 匹萨
+Portuguese Restaurant | 葡萄牙餐馆
+Ramen /  Noodle House | 拉面店
+Restaurant | 餐馆
+Salad Place | 沙拉
+Sandwich Place | 三明治
+Scandinavian Restaurant | 斯堪地那维亚餐馆
 Seafood Restaurant |
 Snack Place |
 Soup Place |
