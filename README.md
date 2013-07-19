@@ -283,7 +283,7 @@ Residential Building (Apartment / Condo) | 公寓
 --- | ---
 Antique Shop | 古玩店
 Arts & Crafts Store | 工艺品商店
-Automotive Shop | 汽车维修店
+Automotive Shop | 车行
 Bank | 银行
 Bike Shop | 自行车行
 Board Shop | 
@@ -293,58 +293,58 @@ Camera Store |
 Candy Store | 糖果商店
 Car Dealership | 汽车销售
 Car Wash | 洗车店
-Clothing Store | 买衣服的商店
+Clothing Store | 服装商店
 Convenience Store | 便利店
 Cosmetics Shop | 化妆品店
 Credit Union | 信用合作社
 Daycare | 托儿所
 Department Store | 百货商店
-Design Studio |
-Drugstore / Pharmacy |
-EV Charging Station |
-Electronics Store |
-Financial or Legal Service |
-Flea Market |
-Flower Shop |
-Food &amp; Drink Shop |
-Furniture / Home Store |
-Gaming Cafe |
+Design Studio | 设计工作室
+Drugstore / Pharmacy | 药店
+EV Charging Station | 电动汽车充电站
+Electronics Store | 数码商店
+Financial or Legal Service | 金融法律服务
+Flea Market | 跳蚤市场
+Flower Shop | 花店
+Food & Drink Shop | 食品商店
+Furniture / Home Store | 家具商店
+Gaming Cafe | 游戏厅
 Garden Center |
-Gas Station / Garage |
-Gift Shop |
-Gym / Fitness Center |
-Hardware Store |
-Hobby Shop |
-Internet Cafe |
-Jewelry Store |
-Laundry Service |
-Mall |
-Miscellaneous Shop |
-Mobile Phone Shop |
-Motorcycle Shop |
-Music Store |
-Nail Salon |
-Newsstand |
-Paper / Office Supplies Store |
-Pet Service |
-Pet Store |
-Photography Lab |
-Real Estate Office |
-Record Shop |
-Recycling Facility |
-Salon / Barbershop |
-Smoke Shop |
-Spa / Massage |
-Sporting Goods Shop |
-Storage Facility |
-Tailor Shop |
-Tanning Salon |
-Tattoo Parlor |
-Thrift / Vintage Store |
-Toy / Game Store |
-Travel Agency |
-Video Game Store |
-Video Store |
+Gas Station / Garage | 加油站
+Gift Shop | 礼品商店
+Gym / Fitness Center | 健身房
+Hardware Store | 五金商店
+Hobby Shop | 模型店
+Internet Cafe | 网吧
+Jewelry Store | 珠宝首饰商店
+Laundry Service | 洗衣房
+Mall | 购物中心
+Miscellaneous Shop | 杂货店
+Mobile Phone Shop | 手机商店
+Motorcycle Shop | 摩托车商店
+Music Store | 同 Record Shop
+Nail Salon | 美甲沙龙
+Newsstand | 报摊
+Paper / Office Supplies Store | 办公用品商店
+Pet Service | 宠物医院
+Pet Store | 宠物商店
+Photography Lab | 摄影工作室
+Real Estate Office | 房屋中介
+Record Shop | 唱片店
+Recycling Facility | 垃圾回收站
+Salon / Barbershop | 理发店
+Smoke Shop | 香烟专卖
+Spa / Massage | 按摩
+Sporting Goods Shop | 运动商店
+Storage Facility | 仓储
+Tailor Shop | 裁缝店
+Tanning Salon | 美肤沙龙
+Tattoo Parlor | 纹身店
+Thrift / Vintage Store | 二手或旧货商店
+Toy / Game Store | 玩具/游戏店
+Travel Agency | 旅行社
+Video Game Store | 电动游戏商店
+Video Store | 视频商店
 
 ### Travel & Transport
 
