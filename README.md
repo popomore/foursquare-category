@@ -98,33 +98,33 @@ University |
 
 英文 | 翻译
 --- | ---
-Afghan Restaurant |
-African Restaurant |
-American Restaurant |
-Arepa Restaurant |
-Argentinian Restaurant |
-Asian Restaurant |
-Australian Restaurant |
-BBQ Joint |
-Bagel Shop |
-Bakery |
-Brazilian Restaurant |
-Breakfast Spot |
-Brewery |
-Burger Joint |
-Burrito Place |
-Café |
-Cajun / Creole Restaurant |
-Caribbean Restaurant |
-Chinese Restaurant |
-Coffee Shop |
-Cuban Restaurant |
-Cupcake Shop |
-Deli / Bodega |
-Dessert Shop |
-Dim Sum Restaurant |
-Diner |
-Distillery |
+Afghan Restaurant | 阿富汗餐馆
+African Restaurant | 非洲餐馆
+American Restaurant | 美国餐馆
+Arepa Restaurant | 玉米饼（常见于哥伦比亚和委内瑞拉）[?](http://en.wikipedia.org/wiki/Arepa)
+Argentinian Restaurant | 阿根廷餐馆
+Asian Restaurant | 亚洲餐馆
+Australian Restaurant | 澳洲餐馆
+BBQ Joint | 烧烤店
+Bagel Shop | 贝果 [?](http://en.wikipedia.org/wiki/Bagel)
+Bakery | 西饼店 [?](http://en.wikipedia.org/wiki/Bakery)
+Brazilian Restaurant | 巴西餐馆
+Breakfast Spot | 早餐店
+Brewery | 啤酒厂
+Burger Joint | 汉堡店
+Burrito Place | 墨西哥卷饼 [?](https://en.wikipedia.org/wiki/Burrito)
+Café | 小餐馆 [?](http://www.zhihu.com/question/19893350)
+Cajun / Creole Restaurant | 印第安餐馆
+Caribbean Restaurant | 加勒比地区餐馆
+Chinese Restaurant | 中国餐馆
+Coffee Shop | 咖啡馆
+Cuban Restaurant | 古巴餐馆
+Cupcake Shop | 纸杯蛋糕 [?](https://en.wikipedia.org/wiki/Cupcake)
+Deli / Bodega | 熟食店或賣酒店
+Dessert Shop | 甜品店
+Dim Sum Restaurant | 点心（一般指粤式的）
+Diner | 餐车 [?](http://en.wikipedia.org/wiki/Diner)
+Distillery | 酒厂
 Donut Shop |
 Dumpling Restaurant |
 Eastern European Restaurant |
