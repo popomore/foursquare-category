@@ -166,24 +166,24 @@ Restaurant | 餐馆
 Salad Place | 沙拉
 Sandwich Place | 三明治
 Scandinavian Restaurant | 斯堪地那维亚餐馆
-Seafood Restaurant |
-Snack Place |
-Soup Place |
-South American Restaurant |
-Southern / Soul Food Restaurant |
-Spanish Restaurant |
-Steakhouse |
-Sushi Restaurant |
-Swiss Restaurant |
-Taco Place |
-Tapas Restaurant |
-Tea Room |
-Thai Restaurant |
-Turkish Restaurant |
-Vegetarian / Vegan Restaurant |
-Vietnamese Restaurant |
-Winery |
-Wings Joint |
+Seafood Restaurant | 海鲜
+Snack Place | 小吃 [?](http://en.wikipedia.org/wiki/Snack_food)
+Soup Place | 汤
+South American Restaurant | 南美洲餐馆
+Southern / Soul Food Restaurant | 灵魂食物 [?](http://en.wikipedia.org/wiki/Soul_food)
+Spanish Restaurant | 西班牙餐馆
+Steakhouse | 牛排馆
+Sushi Restaurant | 寿司
+Swiss Restaurant | 瑞士餐馆
+Taco Place | 玉米面豆卷（墨西哥）[?](http://en.wikipedia.org/wiki/Taco)
+Tapas Restaurant | 西班牙点心 [?](http://en.wikipedia.org/wiki/Tapas)
+Tea Room | 茶室
+Thai Restaurant | 泰国餐馆
+Turkish Restaurant | 土耳其餐馆
+Vegetarian / Vegan Restaurant | 素食餐馆
+Vietnamese Restaurant | 越南餐馆
+Winery | 葡萄酒厂
+Wings Joint | 鸡翅
 
 ### Nightlife Spot
 
