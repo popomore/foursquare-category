@@ -272,33 +272,33 @@ Voting Booth |
 
 英文 | 翻译
 --- | ---
-Assisted Living |
-Home (private) |
-Housing Development |
-Residential Building (Apartment / Condo) |
+Assisted Living | 辅助看护的养老院
+Home (private) | 自己家，可以随便取
+Housing Development | 大规模的住宅区
+Residential Building (Apartment / Condo) | 公寓
 
 ### Shop & Service
 
 英文 | 翻译
 --- | ---
-Antique Shop |
-Arts &amp; Crafts Store |
-Automotive Shop |
-Bank |
-Bike Shop |
-Board Shop |
+Antique Shop | 古玩店
+Arts & Crafts Store | 工艺品商店
+Automotive Shop | 汽车维修店
+Bank | 银行
+Bike Shop | 自行车行
+Board Shop | 
 Bookstore |
 Bridal Shop |
 Camera Store |
-Candy Store |
-Car Dealership |
-Car Wash |
-Clothing Store |
-Convenience Store |
-Cosmetics Shop |
-Credit Union |
-Daycare |
-Department Store |
+Candy Store | 糖果商店
+Car Dealership | 汽车销售
+Car Wash | 洗车店
+Clothing Store | 买衣服的商店
+Convenience Store | 便利店
+Cosmetics Shop | 化妆品店
+Credit Union | 信用合作社
+Daycare | 托儿所
+Department Store | 百货商店
 Design Studio |
 Drugstore / Pharmacy |
 EV Charging Station |
