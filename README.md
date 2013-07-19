@@ -287,8 +287,8 @@ Automotive Shop | 车行
 Bank | 银行
 Bike Shop | 自行车行
 Board Shop | 
-Bookstore |
-Bridal Shop |
+Bookstore | 书店
+Bridal Shop | 婚纱店
 Camera Store |
 Candy Store | 糖果商店
 Car Dealership | 汽车销售
