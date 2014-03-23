@@ -1,7 +1,7 @@
 [
   {
     "name": "Arts & Entertainment",
-    "name_cn": "aaaaa",
+    "name_cn": "艺术 & 娱乐",
     "categories": [
       {
         "name": "Aquarium",
@@ -273,7 +273,7 @@
   },
   {
     "name": "College & University",
-    "name_cn": "",
+    "name_cn": "大学",
     "categories": [
       {
         "name": "College Academic Building",
