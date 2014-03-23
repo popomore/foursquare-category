@@ -1,0 +1,3355 @@
+[
+  {
+    "name": "Arts & Entertainment",
+    "name_cn": "aaaaa",
+    "categories": [
+      {
+        "name": "Aquarium",
+        "name_cn": "水族馆",
+        "categories": []
+      },
+      {
+        "name": "Arcade",
+        "name_cn": "游戏厅，玩街机的",
+        "categories": []
+      },
+      {
+        "name": "Art Gallery",
+        "name_cn": "美术馆",
+        "categories": []
+      },
+      {
+        "name": "Bowling Alley",
+        "name_cn": "保龄球馆",
+        "categories": []
+      },
+      {
+        "name": "Casino",
+        "name_cn": "赌场",
+        "categories": []
+      },
+      {
+        "name": "Circus",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Comedy Club",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Concert Hall",
+        "name_cn": "大型音乐厅",
+        "categories": []
+      },
+      {
+        "name": "Country Dance Club",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Disc Golf",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "General Entertainment",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Go Kart Track",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Historic Site",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Laser Tag",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Mini Golf",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Movie Theater",
+        "name_cn": "电影院",
+        "categories": [
+          {
+            "name": "Indie Movie Theater",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Multiplex",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Museum",
+        "name_cn": "博物馆",
+        "categories": [
+          {
+            "name": "Art Museum",
+            "name_cn": "艺术博物馆",
+            "categories": []
+          },
+          {
+            "name": "History Museum",
+            "name_cn": "历史博物馆",
+            "categories": []
+          },
+          {
+            "name": "Planetarium",
+            "name_cn": "天文馆",
+            "categories": []
+          },
+          {
+            "name": "Science Museum",
+            "name_cn": "科技馆",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Music Venue",
+        "name_cn": "音乐场所（比如西湖音乐节）如果听交响乐之类的可以选上面的音乐厅。",
+        "categories": [
+          {
+            "name": "Jazz Club",
+            "name_cn": "爵士",
+            "categories": []
+          },
+          {
+            "name": "Piano Bar",
+            "name_cn": "钢琴",
+            "categories": []
+          },
+          {
+            "name": "Rock Club",
+            "name_cn": "摇滚",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Outdoor Sculpture",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Performing Arts Venue",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Dance Studio",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Indie Theater",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Opera House",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Theater",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Pool Hall",
+        "name_cn": "台球厅",
+        "categories": []
+      },
+      {
+        "name": "Public Art",
+        "name_cn": "公共艺术",
+        "categories": []
+      },
+      {
+        "name": "Racetrack",
+        "name_cn": "赛车、赛马场",
+        "categories": []
+      },
+      {
+        "name": "Roller Rink",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Salsa Club",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Stadium",
+        "name_cn": "体育场，体育馆",
+        "categories": [
+          {
+            "name": "Baseball Stadium",
+            "name_cn": "棒球场",
+            "categories": []
+          },
+          {
+            "name": "Basketball Stadium",
+            "name_cn": "篮球场",
+            "categories": []
+          },
+          {
+            "name": "Cricket Ground",
+            "name_cn": "板球场",
+            "categories": []
+          },
+          {
+            "name": "Football Stadium",
+            "name_cn": "橄榄球场",
+            "categories": []
+          },
+          {
+            "name": "Hockey Arena",
+            "name_cn": "曲棍球场",
+            "categories": []
+          },
+          {
+            "name": "Soccer Stadium",
+            "name_cn": "足球场",
+            "categories": []
+          },
+          {
+            "name": "Tennis",
+            "name_cn": "网球场",
+            "categories": []
+          },
+          {
+            "name": "Track Stadium",
+            "name_cn": "田径场",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Street Art",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Theme Park",
+        "name_cn": "主题公园",
+        "categories": [
+          {
+            "name": "Theme Park Ride / Attraction",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Water Park",
+        "name_cn": "水上乐园",
+        "categories": []
+      },
+      {
+        "name": "Zoo",
+        "name_cn": "动物园",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "name": "College & University",
+    "name_cn": "",
+    "categories": [
+      {
+        "name": "College Academic Building",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "College Arts Building",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Communications Building",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Engineering Building",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College History Building",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Math Building",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Science Building",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Technology Building",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "College Administrative Building",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Auditorium",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Bookstore",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Cafeteria",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Classroom",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Gym",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Lab",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Library",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Quad",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Rec Center",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Residence Hall",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "College Stadium",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "College Baseball Diamond",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Basketball Court",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Cricket Pitch",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Football Field",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Hockey Rink",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Soccer Field",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Tennis Court",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "College Track",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "College Theater",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Community College",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Fraternity House",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "General College & University",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Law School",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Medical School",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Sorority House",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Student Center",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Trade School",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "University",
+        "name_cn": "",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "name": "Event",
+    "name_cn": "",
+    "categories": [
+      {
+        "name": "Conference",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Convention",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Festival",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Music Festival",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Other Event",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Parade",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Stoop Sale",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Street Fair",
+        "name_cn": "",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "name": "Food",
+    "name_cn": "食物",
+    "categories": [
+      {
+        "name": "Afghan Restaurant",
+        "name_cn": "阿富汗餐馆",
+        "categories": []
+      },
+      {
+        "name": "African Restaurant",
+        "name_cn": "非洲餐馆",
+        "categories": []
+      },
+      {
+        "name": "American Restaurant",
+        "name_cn": "美国餐馆",
+        "categories": []
+      },
+      {
+        "name": "Arepa Restaurant",
+        "name_cn": "玉米饼（常见于哥伦比亚和委内瑞拉）",
+        "categories": []
+      },
+      {
+        "name": "Argentinian Restaurant",
+        "name_cn": "阿根廷餐馆",
+        "categories": []
+      },
+      {
+        "name": "Asian Restaurant",
+        "name_cn": "亚洲餐馆",
+        "categories": []
+      },
+      {
+        "name": "Australian Restaurant",
+        "name_cn": "澳洲餐馆",
+        "categories": []
+      },
+      {
+        "name": "Austrian Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "BBQ Joint",
+        "name_cn": "烧烤店",
+        "categories": []
+      },
+      {
+        "name": "Bagel Shop",
+        "name_cn": "贝果",
+        "categories": []
+      },
+      {
+        "name": "Bakery",
+        "name_cn": "西饼店",
+        "categories": []
+      },
+      {
+        "name": "Belarusian Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Belgian Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Bistro",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Brazilian Restaurant",
+        "name_cn": "巴西餐馆",
+        "categories": [
+          {
+            "name": "Acai House",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Baiano Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Central Brazilian Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Churrascaria",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Empada House",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Goiano Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Mineiro Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Northeastern Brazilian Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Northern Brazilian Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Pastelaria",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Southeastern Brazilian Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Southern Brazilian Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Tapiocaria",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Breakfast Spot",
+        "name_cn": "早餐店",
+        "categories": []
+      },
+      {
+        "name": "Bubble Tea Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Buffet",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Burger Joint",
+        "name_cn": "汉堡店",
+        "categories": []
+      },
+      {
+        "name": "Burrito Place",
+        "name_cn": "墨西哥卷饼",
+        "categories": []
+      },
+      {
+        "name": "Cafeteria",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Café",
+        "name_cn": "小餐馆",
+        "categories": []
+      },
+      {
+        "name": "Cajun / Creole Restaurant",
+        "name_cn": "印第安餐馆",
+        "categories": []
+      },
+      {
+        "name": "Cambodian Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Caribbean Restaurant",
+        "name_cn": "加勒比地区餐馆",
+        "categories": []
+      },
+      {
+        "name": "Caucasian Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Chinese Restaurant",
+        "name_cn": "中国餐馆",
+        "categories": [
+          {
+            "name": "Anhui Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Beijing Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Cantonese Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Chinese Aristocrat Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Chinese Breakfast Place",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Dongbei Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Fujian Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Guizhou Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hainan Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hakka Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Henan Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hong Kong Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Huaiyang Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hubei Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hunan Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Imperial Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Jiangsu Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Jiangxi Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Macanese Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Manchu Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Peking Duck Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Shaanxi Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Shandong Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Shanghai Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Shanxi Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Szechuan Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Taiwanese Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Tianjin Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Xinjiang Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Yunnan Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Zhejiang Restaurant",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Coffee Shop",
+        "name_cn": "咖啡馆",
+        "categories": []
+      },
+      {
+        "name": "Comfort Food Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Creperie",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Cuban Restaurant",
+        "name_cn": "古巴餐馆",
+        "categories": []
+      },
+      {
+        "name": "Cupcake Shop",
+        "name_cn": "纸杯蛋糕",
+        "categories": []
+      },
+      {
+        "name": "Czech Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Deli / Bodega",
+        "name_cn": "熟食店或賣酒店",
+        "categories": []
+      },
+      {
+        "name": "Dessert Shop",
+        "name_cn": "甜品店",
+        "categories": []
+      },
+      {
+        "name": "Dim Sum Restaurant",
+        "name_cn": "点心（一般指粤式的）",
+        "categories": []
+      },
+      {
+        "name": "Diner",
+        "name_cn": "餐车",
+        "categories": []
+      },
+      {
+        "name": "Distillery",
+        "name_cn": "酿酒厂",
+        "categories": []
+      },
+      {
+        "name": "Donut Shop",
+        "name_cn": "甜甜圈",
+        "categories": []
+      },
+      {
+        "name": "Dumpling Restaurant",
+        "name_cn": "饺子店",
+        "categories": []
+      },
+      {
+        "name": "Eastern European Restaurant",
+        "name_cn": "东欧餐馆",
+        "categories": []
+      },
+      {
+        "name": "English Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Ethiopian Restaurant",
+        "name_cn": "埃塞俄比亚餐馆",
+        "categories": []
+      },
+      {
+        "name": "Falafel Restaurant",
+        "name_cn": "炸豆丸子（中东地区）",
+        "categories": []
+      },
+      {
+        "name": "Fast Food Restaurant",
+        "name_cn": "快餐店",
+        "categories": []
+      },
+      {
+        "name": "Filipino Restaurant",
+        "name_cn": "菲律宾餐馆",
+        "categories": []
+      },
+      {
+        "name": "Fish & Chips Shop",
+        "name_cn": "炸鱼薯条",
+        "categories": []
+      },
+      {
+        "name": "Fondue Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Food Truck",
+        "name_cn": "快餐车",
+        "categories": []
+      },
+      {
+        "name": "French Restaurant",
+        "name_cn": "法式餐馆",
+        "categories": []
+      },
+      {
+        "name": "Fried Chicken Joint",
+        "name_cn": "炸鸡",
+        "categories": []
+      },
+      {
+        "name": "Gastropub",
+        "name_cn": "美食酒馆，相对其他 pub，会提供精致的菜",
+        "categories": []
+      },
+      {
+        "name": "German Restaurant",
+        "name_cn": "德国餐馆",
+        "categories": []
+      },
+      {
+        "name": "Gluten-free Restaurant",
+        "name_cn": "无麸质饮食餐馆",
+        "categories": []
+      },
+      {
+        "name": "Greek Restaurant",
+        "name_cn": "希腊餐馆",
+        "categories": []
+      },
+      {
+        "name": "Halal Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Hawaiian Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Himalayan Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Hot Dog Joint",
+        "name_cn": "热狗",
+        "categories": []
+      },
+      {
+        "name": "Hotpot Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Hungarian Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Ice Cream Shop",
+        "name_cn": "冰淇淋",
+        "categories": []
+      },
+      {
+        "name": "Indian Restaurant",
+        "name_cn": "印度餐馆",
+        "categories": []
+      },
+      {
+        "name": "Indonesian Restaurant",
+        "name_cn": "印度尼西亚餐馆",
+        "categories": [
+          {
+            "name": "Acehnese Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Balinese Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Betawinese Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Javanese Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Manadonese Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Meatball Place",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Padangnese Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Sundanese Restaurant",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Irish Pub",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Italian Restaurant",
+        "name_cn": "意大利餐馆",
+        "categories": []
+      },
+      {
+        "name": "Japanese Restaurant",
+        "name_cn": "日本餐馆",
+        "categories": []
+      },
+      {
+        "name": "Jewish Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Juice Bar",
+        "name_cn": "果汁店（主要为水果饮料）",
+        "categories": []
+      },
+      {
+        "name": "Korean Restaurant",
+        "name_cn": "韩国餐馆",
+        "categories": []
+      },
+      {
+        "name": "Kosher Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Latin American Restaurant",
+        "name_cn": "拉丁每周餐馆",
+        "categories": [
+          {
+            "name": "Empanada Restaurant",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Mac & Cheese Joint",
+        "name_cn": "奶酪通心粉",
+        "categories": []
+      },
+      {
+        "name": "Malaysian Restaurant",
+        "name_cn": "马来西亚餐馆",
+        "categories": []
+      },
+      {
+        "name": "Mediterranean Restaurant",
+        "name_cn": "地中海餐馆",
+        "categories": []
+      },
+      {
+        "name": "Mexican Restaurant",
+        "name_cn": "墨西哥餐馆",
+        "categories": []
+      },
+      {
+        "name": "Middle Eastern Restaurant",
+        "name_cn": "中东餐馆",
+        "categories": []
+      },
+      {
+        "name": "Modern European Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Molecular Gastronomy Restaurant",
+        "name_cn": "分子食物",
+        "categories": []
+      },
+      {
+        "name": "Mongolian Restaurant",
+        "name_cn": "蒙古餐馆",
+        "categories": []
+      },
+      {
+        "name": "Moroccan Restaurant",
+        "name_cn": "摩洛哥餐馆",
+        "categories": []
+      },
+      {
+        "name": "New American Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Pakistani Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Persian Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Peruvian Restaurant",
+        "name_cn": "秘鲁餐馆",
+        "categories": []
+      },
+      {
+        "name": "Pie Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Pizza Place",
+        "name_cn": "匹萨",
+        "categories": []
+      },
+      {
+        "name": "Polish Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Portuguese Restaurant",
+        "name_cn": "葡萄牙餐馆",
+        "categories": []
+      },
+      {
+        "name": "Ramen / Noodle House",
+        "name_cn": "拉面店",
+        "categories": []
+      },
+      {
+        "name": "Restaurant",
+        "name_cn": "餐馆",
+        "categories": []
+      },
+      {
+        "name": "Romanian Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Russian Restaurant",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Blini House",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Pelmeni House",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Salad Place",
+        "name_cn": "沙拉",
+        "categories": []
+      },
+      {
+        "name": "Sandwich Place",
+        "name_cn": "三明治",
+        "categories": []
+      },
+      {
+        "name": "Scandinavian Restaurant",
+        "name_cn": "斯堪地那维亚餐馆",
+        "categories": []
+      },
+      {
+        "name": "Seafood Restaurant",
+        "name_cn": "海鲜",
+        "categories": []
+      },
+      {
+        "name": "Snack Place",
+        "name_cn": "小吃",
+        "categories": []
+      },
+      {
+        "name": "Soup Place",
+        "name_cn": "汤",
+        "categories": []
+      },
+      {
+        "name": "South American Restaurant",
+        "name_cn": "南美洲餐馆",
+        "categories": []
+      },
+      {
+        "name": "Southern / Soul Food Restaurant",
+        "name_cn": "灵魂食物",
+        "categories": []
+      },
+      {
+        "name": "Souvlaki Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Spanish Restaurant",
+        "name_cn": "西班牙餐馆",
+        "categories": [
+          {
+            "name": "Paella Restaurant",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Steakhouse",
+        "name_cn": "牛排馆",
+        "categories": []
+      },
+      {
+        "name": "Sushi Restaurant",
+        "name_cn": "寿司",
+        "categories": []
+      },
+      {
+        "name": "Swiss Restaurant",
+        "name_cn": "瑞士餐馆",
+        "categories": []
+      },
+      {
+        "name": "Taco Place",
+        "name_cn": "玉米面豆卷（墨西哥）",
+        "categories": []
+      },
+      {
+        "name": "Tapas Restaurant",
+        "name_cn": "西班牙点心",
+        "categories": []
+      },
+      {
+        "name": "Tatar Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Tea Room",
+        "name_cn": "茶室",
+        "categories": []
+      },
+      {
+        "name": "Thai Restaurant",
+        "name_cn": "泰国餐馆",
+        "categories": []
+      },
+      {
+        "name": "Tibetan Restaurant",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Turkish Restaurant",
+        "name_cn": "土耳其餐馆",
+        "categories": [
+          {
+            "name": "Borek Place",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Cigkofte Place",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Doner Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Gozleme Place",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Home Cooking Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Kebab Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Kofte Place",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Kokoreç Restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Manti Place",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Meyhane",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Pide Place",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Ukrainian Restaurant",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Varenyky restaurant",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "West-Ukrainian Restaurant",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Vegetarian / Vegan Restaurant",
+        "name_cn": "素食餐馆",
+        "categories": []
+      },
+      {
+        "name": "Vietnamese Restaurant",
+        "name_cn": "越南餐馆",
+        "categories": []
+      },
+      {
+        "name": "Winery",
+        "name_cn": "葡萄酒厂",
+        "categories": []
+      },
+      {
+        "name": "Wings Joint",
+        "name_cn": "鸡翅",
+        "categories": []
+      },
+      {
+        "name": "Frozen Yogurt",
+        "name_cn": "",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "name": "Nightlife Spot",
+    "name_cn": "",
+    "categories": [
+      {
+        "name": "Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Beach Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Beer Garden",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Brewery",
+        "name_cn": "啤酒厂",
+        "categories": []
+      },
+      {
+        "name": "Champagne Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Cocktail Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Dive Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Gay Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Hookah Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Hotel Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Karaoke Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Lounge",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Nightclub",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Other Nightlife",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Pub",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Sake Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Speakeasy",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Sports Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Strip Club",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Whisky Bar",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Wine Bar",
+        "name_cn": "",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "name": "Outdoors & Recreation",
+    "name_cn": "",
+    "categories": [
+      {
+        "name": "Athletics & Sports",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Badminton Court",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Baseball Field",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Basketball Court",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Bowling Green",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Golf Course",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hockey Field",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Paintball Field",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Rugby Pitch",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Skate Park",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Skating Rink",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Soccer Field",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Sports Club",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Squash Court",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Tennis Court",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Volleyball Court",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Bath House",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Bathing Area",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Beach",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Nudist Beach",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Surf Spot",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Botanical Garden",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Bridge",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Campground",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Castle",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Cemetery",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Dive Spot",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Dog Run",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Farm",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Field",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Fishing Spot",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Forest",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Garden",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Gun Range",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Harbor / Marina",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Hot Spring",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Island",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Lake",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Lighthouse",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Mountain",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "National Park",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Nature Preserve",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Other Great Outdoors",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Palace",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Park",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Pedestrian Plaza",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Playground",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Plaza",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Pool",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Rafting",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Recreation Center",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "River",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Rock Climbing Spot",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Scenic Lookout",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Sculpture Garden",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Ski Area",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Apres Ski Bar",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Ski Chairlift",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Ski Chalet",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Ski Lodge",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Ski Trail",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Stables",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "States & Municipalities",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "City",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Country",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Neighborhood",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "State",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Town",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Village",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Summer Camp",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Trail",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Tree",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Vineyard",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Volcano",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Well",
+        "name_cn": "",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "name": "Professional & Other Places",
+    "name_cn": "",
+    "categories": [
+      {
+        "name": "Animal Shelter",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Auditorium",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Building",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Club House",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Community Center",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Convention Center",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Meeting Room",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Cultural Center",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Distribution Center",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Event Space",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Factory",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Fair",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Funeral Home",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Government Building",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Capitol Building",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "City Hall",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Courthouse",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Embassy / Consulate",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Fire Station",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Monument / Landmark",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Police Station",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Town Hall",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Library",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Medical Center",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Acupuncturist",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Alternative Healer",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Chiropractor",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Dentist's Office",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Doctor's Office",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Emergency Room",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Eye Doctor",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hospital",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Laboratory",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Mental Health Office",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Veterinarian",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Military Base",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Non-Profit",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Office",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Advertising Agency",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Campaign Office",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Conference Room",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Coworking Space",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Tech Startup",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Parking",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Post Office",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Prison",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Radio Station",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Recruiting Agency",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "School",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Circus School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Driving School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Elementary School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Flight School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "High School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Language School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Middle School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Music School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Nursery School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Preschool",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Private School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Religious School",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Swim School",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Social Club",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Spiritual Center",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Buddhist Temple",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Church",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hindu Temple",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Monastery",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Mosque",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Prayer Room",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Shrine",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Synagogue",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Temple",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "TV Station",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Voting Booth",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Warehouse",
+        "name_cn": "",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "name": "Residence",
+    "name_cn": "居住地",
+    "categories": [
+      {
+        "name": "Assisted Living",
+        "name_cn": "辅助看护的养老院",
+        "categories": []
+      },
+      {
+        "name": "Home (private)",
+        "name_cn": "自己家，可以随便取",
+        "categories": []
+      },
+      {
+        "name": "Housing Development",
+        "name_cn": "大规模的住宅区",
+        "categories": []
+      },
+      {
+        "name": "Residential Building (Apartment / Condo)",
+        "name_cn": "公寓",
+        "categories": []
+      },
+      {
+        "name": "Trailer Park",
+        "name_cn": "",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "name": "Shop & Service",
+    "name_cn": "商店和服务",
+    "categories": [
+      {
+        "name": "ATM",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Adult Boutique",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Antique Shop",
+        "name_cn": "古玩店",
+        "categories": []
+      },
+      {
+        "name": "Arts & Crafts Store",
+        "name_cn": "工艺品商店",
+        "categories": []
+      },
+      {
+        "name": "Astrologer",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Auto Garage",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Automotive Shop",
+        "name_cn": "车行",
+        "categories": []
+      },
+      {
+        "name": "Baby Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Bank",
+        "name_cn": "银行",
+        "categories": []
+      },
+      {
+        "name": "Betting Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Big Box Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Bike Shop",
+        "name_cn": "自行车行",
+        "categories": []
+      },
+      {
+        "name": "Board Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Bookstore",
+        "name_cn": "书店",
+        "categories": []
+      },
+      {
+        "name": "Bridal Shop",
+        "name_cn": "婚纱店",
+        "categories": []
+      },
+      {
+        "name": "Camera Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Candy Store",
+        "name_cn": "糖果商店",
+        "categories": []
+      },
+      {
+        "name": "Car Dealership",
+        "name_cn": "汽车销售",
+        "categories": []
+      },
+      {
+        "name": "Car Wash",
+        "name_cn": "洗车店",
+        "categories": []
+      },
+      {
+        "name": "Carpet Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Check Cashing Service",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Chocolate Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Christmas Market",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Clothing Store",
+        "name_cn": "服装商店",
+        "categories": [
+          {
+            "name": "Accessories Store",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Boutique",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Kids Store",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Lingerie Store",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Men's Store",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Shoe Store",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Women's Store",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Comic Shop",
+        "name_cn": "漫画店",
+        "categories": []
+      },
+      {
+        "name": "Convenience Store",
+        "name_cn": "便利店",
+        "categories": []
+      },
+      {
+        "name": "Cosmetics Shop",
+        "name_cn": "化妆品店",
+        "categories": []
+      },
+      {
+        "name": "Costume Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Credit Union",
+        "name_cn": "信用合作社",
+        "categories": []
+      },
+      {
+        "name": "Daycare",
+        "name_cn": "托儿所",
+        "categories": []
+      },
+      {
+        "name": "Department Store",
+        "name_cn": "百货商店",
+        "categories": []
+      },
+      {
+        "name": "Design Studio",
+        "name_cn": "设计工作室",
+        "categories": []
+      },
+      {
+        "name": "Discount Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Dive Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Drugstore / Pharmacy",
+        "name_cn": "药店",
+        "categories": []
+      },
+      {
+        "name": "Dry Cleaner",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "EV Charging Station",
+        "name_cn": "电动汽车充电站",
+        "categories": []
+      },
+      {
+        "name": "Electronics Store",
+        "name_cn": "数码商店",
+        "categories": []
+      },
+      {
+        "name": "Fabric Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Financial or Legal Service",
+        "name_cn": "金融法律服务",
+        "categories": []
+      },
+      {
+        "name": "Fireworks Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Fishing Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Flea Market",
+        "name_cn": "跳蚤市场",
+        "categories": []
+      },
+      {
+        "name": "Flower Shop",
+        "name_cn": "花店",
+        "categories": []
+      },
+      {
+        "name": "Food & Drink Shop",
+        "name_cn": "食品商店",
+        "categories": [
+          {
+            "name": "Butcher",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Cheese Shop",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Farmers Market",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Fish Market",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Food Court",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Gourmet Shop",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Grocery Store",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Health Food Store",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Liquor Store",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Organic Grocery",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Supermarket",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Wine Shop",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Frame Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Fruit & Vegetable Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Furniture / Home Store",
+        "name_cn": "家具商店",
+        "categories": []
+      },
+      {
+        "name": "Gaming Cafe",
+        "name_cn": "游戏厅",
+        "categories": []
+      },
+      {
+        "name": "Garden Center",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Gas Station / Garage",
+        "name_cn": "加油站",
+        "categories": []
+      },
+      {
+        "name": "Gift Shop",
+        "name_cn": "礼品商店",
+        "categories": []
+      },
+      {
+        "name": "Gun Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Gym / Fitness Center",
+        "name_cn": "健身房",
+        "categories": [
+          {
+            "name": "Boxing Gym",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Climbing Gym",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Cycle Studio",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Gym Pool",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Gymnastics Gym",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Gym",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Martial Arts Dojo",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Track",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Yoga Studio",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Hardware Store",
+        "name_cn": "五金商店",
+        "categories": []
+      },
+      {
+        "name": "Herbs & Spices Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Hobby Shop",
+        "name_cn": "模型店",
+        "categories": []
+      },
+      {
+        "name": "Hunting Supply",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "IT Services",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Internet Cafe",
+        "name_cn": "网吧",
+        "categories": []
+      },
+      {
+        "name": "Jewelry Store",
+        "name_cn": "珠宝首饰商店",
+        "categories": []
+      },
+      {
+        "name": "Knitting Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Laundromat",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Laundry Service",
+        "name_cn": "洗衣房",
+        "categories": []
+      },
+      {
+        "name": "Lawyer",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Leather Goods Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Locksmith",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Lottery Retailer",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Luggage Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Mall",
+        "name_cn": "购物中心",
+        "categories": []
+      },
+      {
+        "name": "Marijuana Dispensary",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Market",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Massage Studio",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Mattress Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Miscellaneous Shop",
+        "name_cn": "杂货店",
+        "categories": []
+      },
+      {
+        "name": "Mobile Phone Shop",
+        "name_cn": "手机商店",
+        "categories": []
+      },
+      {
+        "name": "Motorcycle Shop",
+        "name_cn": "摩托车商店",
+        "categories": []
+      },
+      {
+        "name": "Music Store",
+        "name_cn": "同 Record Shop",
+        "categories": []
+      },
+      {
+        "name": "Nail Salon",
+        "name_cn": "美甲沙龙",
+        "categories": []
+      },
+      {
+        "name": "Newsstand",
+        "name_cn": "报摊",
+        "categories": []
+      },
+      {
+        "name": "Optical Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Other Repair Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Outdoor Supply Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Outlet Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Paper / Office Supplies Store",
+        "name_cn": "办公用品商店",
+        "categories": []
+      },
+      {
+        "name": "Pawn Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Perfume Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Pet Service",
+        "name_cn": "宠物医院",
+        "categories": []
+      },
+      {
+        "name": "Pet Store",
+        "name_cn": "宠物商店",
+        "categories": []
+      },
+      {
+        "name": "Photography Lab",
+        "name_cn": "摄影工作室",
+        "categories": []
+      },
+      {
+        "name": "Piercing Parlor",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Pop-Up Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Print Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Real Estate Office",
+        "name_cn": "房屋中介",
+        "categories": []
+      },
+      {
+        "name": "Record Shop",
+        "name_cn": "唱片店",
+        "categories": []
+      },
+      {
+        "name": "Recording Studio",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Recycling Facility",
+        "name_cn": "垃圾回收站",
+        "categories": []
+      },
+      {
+        "name": "Salon / Barbershop",
+        "name_cn": "理发店",
+        "categories": []
+      },
+      {
+        "name": "Shipping Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Shoe Repair",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Smoke Shop",
+        "name_cn": "香烟专卖",
+        "categories": []
+      },
+      {
+        "name": "Smoothie Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Souvenir Shop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Spa",
+        "name_cn": "按摩",
+        "categories": []
+      },
+      {
+        "name": "Sporting Goods Shop",
+        "name_cn": "运动商店",
+        "categories": []
+      },
+      {
+        "name": "Stationery Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Storage Facility",
+        "name_cn": "仓储",
+        "categories": []
+      },
+      {
+        "name": "Tailor Shop",
+        "name_cn": "裁缝店",
+        "categories": []
+      },
+      {
+        "name": "Tanning Salon",
+        "name_cn": "美肤沙龙",
+        "categories": []
+      },
+      {
+        "name": "Tattoo Parlor",
+        "name_cn": "纹身店",
+        "categories": []
+      },
+      {
+        "name": "Thrift / Vintage Store",
+        "name_cn": "二手或旧货商店",
+        "categories": []
+      },
+      {
+        "name": "Toy / Game Store",
+        "name_cn": "玩具/游戏店",
+        "categories": []
+      },
+      {
+        "name": "Travel Agency",
+        "name_cn": "旅行社",
+        "categories": []
+      },
+      {
+        "name": "Used Bookstore",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Video Game Store",
+        "name_cn": "电动游戏商店",
+        "categories": []
+      },
+      {
+        "name": "Video Store",
+        "name_cn": "视频商店",
+        "categories": []
+      },
+      {
+        "name": "Warehouse Store",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Watch Repair Shop",
+        "name_cn": "",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "name": "Travel & Transport",
+    "name_cn": "",
+    "categories": [
+      {
+        "name": "Airport",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Airport Food Court",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Airport Gate",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Airport Lounge",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Airport Terminal",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Airport Tram",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Plane",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Bike Rental / Bike Share",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Boat or Ferry",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Border Crossing",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Bus Station",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Bus Line",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Bus Stop",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Cable Car",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "General Travel",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Hotel",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Bed & Breakfast",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Boarding House",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hostel",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Hotel Pool",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Motel",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Resort",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Roof Deck",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Intersection",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Light Rail",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Moving Target",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Pier",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "RV Park",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Rental Car Location",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Rest Area",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Road",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Street",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Subway",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Taxi",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Toll Booth",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Toll Plaza",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Tourist Information Center",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Train Station",
+        "name_cn": "",
+        "categories": [
+          {
+            "name": "Platform",
+            "name_cn": "",
+            "categories": []
+          },
+          {
+            "name": "Train",
+            "name_cn": "",
+            "categories": []
+          }
+        ]
+      },
+      {
+        "name": "Tram",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Travel Lounge",
+        "name_cn": "",
+        "categories": []
+      },
+      {
+        "name": "Tunnel",
+        "name_cn": "",
+        "categories": []
+      }
+    ]
+  }
+]
